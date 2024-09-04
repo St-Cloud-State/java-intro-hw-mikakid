@@ -25,6 +25,6 @@ public class Person{
 
     //toString() method
     public String toString(){
-        return "First Name: " + firstName + "\n" + "Last Name: " + lastName + "\n" + "Id: " + id;
+        return "First Name: " + firstName + "\n" + "Last Name: " + lastName + "\n" + "Id: " + id + "\n";
     }
 }
